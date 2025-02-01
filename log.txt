@@ -1,0 +1,19 @@
+version
+
+4.21.2
+1st part -> 4
+1st part -> 21
+1st part -> 2
+
+3rd part (last part) - minor fixes (optional)
+latest -> 4.21.3
+
+2nd part recommended bug fix (secured)
+latest -> 4.19.1
+
+3rd  part major release
+Major and breaking update
+
+"express": "^4.21.2"
+4 ko change n kro
+^ :- Install all recommended and minor fixes Automatically
